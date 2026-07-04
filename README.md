@@ -44,8 +44,7 @@ This project presents an interactive Power BI dashboard built using two datasets
 - Explore user behavior through interactive filtering.
 
 ## 📸 Dashboard Preview
-> Add your dashboard screenshot here.
-
+> daily tracker.png
 ## 📁 Files
 - `User_Profile_Dashboard.pbix`
 - `user_profiles_for_ads.csv`
